@@ -2,6 +2,8 @@
 
 The purpose of this data presentation is to extract the daily opening price, closing price, high, low & volume of any stock for the past 5 years and convert the data into a MACD dataframe.
 
+![Stock Price](https://github.com/ritwikthakar/Module-17-Credit-Risk/blob/main/img_2.1.PNG)
+
 ### What Is Moving Average Convergence Divergence (MACD)?
 
 Moving average convergence divergence (MACD) is a trend-following momentum indicator that shows the relationship between two moving averages of a security’s price. The MACD is calculated by subtracting the 26-period exponential moving average (EMA) from the 12-period EMA.

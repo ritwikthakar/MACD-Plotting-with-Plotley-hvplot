@@ -21,4 +21,4 @@ The result of that calculation is the MACD line. A nine-day EMA of the MACD call
 
 
 The Price data in this presentation is displayed in plotley using candlestick charts and the MACD Chart & MACD histogram are pltted using the hvplot function.
-![MACD Histogram](https://github.com/ritwikthakar/MACD-Plotting-with-Plotley-hvplot/blob/main/Images/MACD Histogram.png)
+![MACD Histogram](https://github.com/ritwikthakar/MACD-Plotting-with-Plotley-hvplot/blob/main/Images/MACD%20Histogram.png)

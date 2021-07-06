@@ -2,7 +2,7 @@
 
 The purpose of this data presentation is to extract the daily opening price, closing price, high, low & volume of any stock for the past 5 years and convert the data into a MACD dataframe.
 
-![Stock Price](https://github.com/ritwikthakar/Module-17-Credit-Risk/blob/main/img_2.1.PNG)
+![Stock Price](https://github.com/ritwikthakar/MACD-Plotting-with-Plotley-hvplot/blob/main/Images/Price.png)
 
 ### What Is Moving Average Convergence Divergence (MACD)?
 
@@ -17,4 +17,8 @@ The result of that calculation is the MACD line. A nine-day EMA of the MACD call
 - The speed of crossovers is also taken as a signal of a market is overbought or oversold.
 - MACD helps investors understand whether the bullish or bearish movement in the price is strengthening or weakening.
 
+![MACD](https://github.com/ritwikthakar/MACD-Plotting-with-Plotley-hvplot/blob/main/Images/MACD.png)
+
+
 The Price data in this presentation is displayed in plotley using candlestick charts and the MACD Chart & MACD histogram are pltted using the hvplot function.
+![MACD Histogram](https://github.com/ritwikthakar/MACD-Plotting-with-Plotley-hvplot/blob/main/Images/MACD Histogram.png)

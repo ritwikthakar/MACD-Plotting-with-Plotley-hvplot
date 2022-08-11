@@ -1,6 +1,6 @@
 streamlit>=0.78.0
 yfinance
-talib
+TA-Lib
 matplotlib
 pandas
 mplfinance

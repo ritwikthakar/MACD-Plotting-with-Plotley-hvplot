@@ -1,0 +1,6 @@
+streamlit>=1.11.1
+yfinance
+talib
+matplotlib
+pandas
+mplfinance
